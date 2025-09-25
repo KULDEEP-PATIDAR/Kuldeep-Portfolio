@@ -61,12 +61,10 @@ export function About() {
             
             <div className="space-y-4 text-lg text-muted-foreground leading-relaxed">
               <p>
-                I'm a passionate final-year B.Tech student at <span className="text-primary font-semibold">IIT Guwahati</span>, 
-                specializing in Electronics and Electrical Engineering. My journey in technology began with a curiosity 
-                about how digital systems work, which evolved into a deep passion for creating impactful solutions.
+                Final-year B.Tech student at IIT Guwahati, specializing in Electronics and Electrical Engineering. Skilled in full-stack development and machine learning, with experience building responsive web interfaces, robust backend systems, and end-to-end applications. Passionate about leveraging technology to solve real-world problems through clean, scalable, and efficient code, while continuously learning emerging technologies and best practices.
               </p>
               
-              <p>
+              {/* <p>
                 With a strong foundation in both <span className="text-accent font-semibold">frontend and backend development</span>, 
                 I enjoy building end-to-end applications that solve real-world problems. My experience spans from creating 
                 responsive web interfaces to developing robust server-side applications and implementing machine learning models.
@@ -76,13 +74,13 @@ export function About() {
                 What drives me is the opportunity to leverage technology for meaningful impact. Whether it's streamlining 
                 processes through web applications, analyzing data for insights, or solving complex algorithmic challenges, 
                 I approach each project with <span className="text-primary font-semibold">enthusiasm and attention to detail</span>.
-              </p>
+              </p> */}
               
-              <p>
+              {/* <p>
                 Beyond coding, I'm constantly learning about emerging technologies and best practices in software development. 
                 I believe in writing clean, maintainable code and following industry standards to create solutions that are 
                 not just functional, but also scalable and efficient.
-              </p>
+              </p> */}
             </div>
 
             {/* Stats */}

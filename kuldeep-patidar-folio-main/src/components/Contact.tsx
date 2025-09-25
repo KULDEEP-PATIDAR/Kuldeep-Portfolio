@@ -9,29 +9,29 @@ export function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "kuldeep@example.com",
-      href: "mailto:kuldeep@example.com",
+      value: "kuldeeppatidar6144@gmail.com",
+      href: "mailto:kuldeeppatidar6144@gmail.com",
       color: "text-primary"
     },
     {
       icon: Phone,
       label: "Phone",
-      value: "+91 XXXXXXXXXX",
-      href: "tel:+91XXXXXXXXXX",
+      value: "+91 9669616144",
+      href: "tel:+919669616144",
       color: "text-accent"
     },
     {
       icon: Github,
       label: "GitHub",
-      value: "github.com/kuldeep",
-      href: "https://github.com/kuldeep",
+      value: "GitHub",
+      href: "https://github.com/KULDEEP-PATIDAR",
       color: "text-secondary-accent"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/kuldeep",
-      href: "https://linkedin.com/in/kuldeep",
+      value: "LinkedIn",
+      href: "https://www.linkedin.com/in/kuldeep-patidar-4674b8256/",
       color: "text-primary"
     }
   ];
@@ -184,7 +184,7 @@ export function Contact() {
         {/* Footer */}
         <div className="text-center mt-16 pt-8 border-t border-border">
           <p className="text-muted-foreground">
-            Built with ❤️ by Kuldeep Patidar • © 2024 All rights reserved
+             Kuldeep Patidar • © 2024 All rights reserved
           </p>
         </div>
       </div>
